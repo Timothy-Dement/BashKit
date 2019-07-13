@@ -5,7 +5,7 @@
 
 [//]: # (Assets)
 
-[img_bash_logo]: /assets/32x32.png
+[img_bash_logo]: /assets/16x16.png
 [img_bash_favicon]: /assets/Favicon-16x16.png
 
 [//]: # (Links)
