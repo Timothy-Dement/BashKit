@@ -1,7 +1,7 @@
 # ![Bash Logo][img_bash_logo] BashKit
 
-- ### ![Bash Favicon][img_bash_favicon] &nbsp; [Bash 5.0 Manual][href_bash_manual]
-- ### ![Bash Favicon][img_bash_favicon] &nbsp; [Bash Logos]()
+### ![Bash Favicon][img_bash_favicon] &nbsp; [Bash 5.0 Manual][href_bash_manual]
+### ![Bash Favicon][img_bash_favicon] &nbsp; [Bash Logos]()
 
 [//]: # (Assets)
 
